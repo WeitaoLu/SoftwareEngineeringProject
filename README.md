@@ -24,9 +24,9 @@
 # 页面展示：登录页面
 ![](https://github.com/sjtuLLWWTT/NISSE2022/blob/main/preview/pcfront.png)
 # PC端
-![](https://github.com/sjtuLLWWTT/NISSE2022/blob/main/preview/pcfront.png)
+![](https://github.com/sjtuLLWWTT/NISSE2022/blob/main/preview/聊天.png)
 # 移动端
-![](https://github.com/sjtuLLWWTT/NISSE2022/blob/main/preview/pcfront.png)
+![](https://github.com/sjtuLLWWTT/NISSE2022/blob/main/preview/移动端.png)
 # 更新后 页面展示：登录页面
 ![](https://github.com/sjtuLLWWTT/NISSE2022/blob/main/preview/pcfrontt.png)
 # 聊天窗口
