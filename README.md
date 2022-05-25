@@ -27,7 +27,7 @@
 ![](./preview/聊天.png)
 # 移动端
 ![](./preview/移动端.png)
-#更新后 页面展示：登录页面
-![](./preview/pcfrontt.png)
+# 更新后 页面展示：登录页面
+![]([./preview/pcfrontt.png](https://github.com/sjtuLLWWTT/NISSE2022/blob/main/preview/pcfrontt.png))
 # 聊天窗口
 ![](./preview/聊天2.png)
