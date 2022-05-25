@@ -22,7 +22,7 @@
 * 总之在开发的过程中，我从零开始探索vue框架，巩固了之前学到的前端知识，也锻炼了自己的编程能力（极大锻炼了debug能力），对于不熟悉的计网知识有了一些了解。虽然在debug和css布局上“浪费”了很多时间，但我感觉这次大作业还是让我收获很多的。  
 * 经过探索，成功将项目部署在了阿里云，使用tmux挂载server进程和client进程，将打包好的文件用live-storage运行。
 # 页面展示：登录页面
-![](https://github.com/sjtuLLWWTT/NISSE2022/blob/main/preview/pcfront.png)
+![https://github.com/sjtuLLWWTT/NISSE2022/blob/main/preview/pcfront.png]
 # PC端
 ![](./preview/聊天.png)
 # 移动端
