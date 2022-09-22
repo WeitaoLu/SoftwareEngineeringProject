@@ -1,12 +1,20 @@
-#  SJTU喵汪交流平台
-1.  基于Websocket，前端vue，后端Node.js
-2.  支持多人多房间聊天，前端做了pc端和移动端适应
-3.  实现同一ip内设备访问，需要修改chatroom.vue中的ip（localhost）为本地ip。
-4.  实现了自定义和随机登录名称，并且每个名称会绑定一个随机头像，再次输入相同的名称头像相同。
-5.  尽可能尝试了课程中学到的优化和移动端设计技术，多采用flex、百分比高宽，让页面适应ipad、手机等场景。
-6.  5.13更新：[部署在了阿里云上，点击链接](http://47.107.111.88:8080/)
-7.  5.18更新：修复了css和头像问题，采用了更美化的页面设计，增加定制头像，在云服务器上适配本小组项目改为交大喵汪聊天室，使用admin作为昵称使用个性化头像。
-8.  试用服务器，到期不可用请与我联系。
+# SJTU Meow Wang Communication Platform
+
+1. Based on Websocket, front-end using vue, back-end using Node.js
+
+2. It supports multi person and multi room chat, and the front end adapts to the PC and mobile terminals
+
+3. To access devices in the same IP, you need to modify the IP (localhost) in chatroom.vue to the local IP.
+
+4. Customized and random login names are implemented, and each name will be bound with a random avatar, and the same name and avatar will be entered again.
+
+5. Try the optimization and mobile terminal design technology learned in the course as much as possible, and use more flex and percentage height width to adapt the page to the scenarios such as iPad and mobile phone.
+
+6.5.13 Update: [deployed on Alibaba Cloud, click the link]（ http://47.107.111.88:8080/ )
+
+7. 5.18 Update: fixed the problem of css and avatars, adopted a more beautiful page design, added customized avatars, adapted this group project on the ECS to Jiaotong University Meowang Chat Room, and used admin as the nickname to use personalized avatars.
+
+8. Please contact me if the trial server is unavailable at the expiration.
 # 使用说明：
 1. npm install 安装
 2. 在根目录执行：node server.js启动服务器
