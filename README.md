@@ -15,12 +15,17 @@
 7. 5.18 Update: fixed the problem of css and avatars, adopted a more beautiful page design, added customized avatars, adapted this group project on the ECS to Jiaotong University Meowang Chat Room, and used admin as the nickname to use personalized avatars.
 
 8. Please contact me if the trial server is unavailable at the expiration.
-# 使用说明：
-1. npm install 安装
-2. 在根目录执行：node server.js启动服务器
-3. 打开dist目录下的index.html，直接使用打包好的文件
-4. 拆分终端，在根项目执行npm run serve，实现热更新
-5. 使用npm run build打包（build后加载路径可能都少了"./"，可以提前修改vue.config.js中的publicpath为"./"）
+# Instructions:
+
+1. Install the npm
+
+2. Execute node server.js in the root directory to start the server
+
+3. Open index.html in the dist directory and directly use the packaged file
+
+4. Split the terminal and execute npm run serve in the root project to achieve hot update
+
+5. Use npm run build to package (the load path may be missing "./" after the build, and you can modify the publicpath in vue.config.js to "./" in advance)
 
 # 开发过程
 * 开发中的整体框架学习了GitHub上的好几个开源代码，最终仿制出一个比较粗糙的版本，实现了基本聊天功能，[见链接](https://github.com/sjtuLLWWTT/Chatroom-vue)  
