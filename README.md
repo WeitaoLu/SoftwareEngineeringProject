@@ -5,12 +5,12 @@
 2. It supports multi person and multi room chat, and the front end adapts to the PC and mobile terminals
 
 3. To access devices in the same IP, you need to modify the IP (localhost) in chatroom.vue to the local IP.
-
+ 
 4. Customized and random login names are implemented, and each name will be bound with a random avatar, and the same name and avatar will be entered again.
 
 5. Try the optimization and mobile terminal design technology learned in the course as much as possible, and use more flex and percentage height width to adapt the page to the scenarios such as iPad and mobile phone.
 
-6.5.13 Update: [deployed on Alibaba Cloud, click the link]（ http://47.107.111.88:8080/ )
+ 6.5.13 Update: [deployed on Alibaba Cloud, click the link]（ http://47.107.111.88:8080/ )
 
 7. 5.18 Update: fixed the problem of css and avatars, adopted a more beautiful page design, added customized avatars, adapted this group project on the ECS to Jiaotong University Meowang Chat Room, and used admin as the nickname to use personalized avatars.
 
