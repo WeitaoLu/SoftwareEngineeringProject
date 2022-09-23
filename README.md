@@ -1,6 +1,6 @@
 # SJTU Meow Wang Communication Platform
 
-1. Based on Websocket, front-end using vue, back-end using Node.js
+1. Based on Websocket, front-end using vue, back-end using Node.js,achieved 96 in this course.
 
 2. It supports multi person and multi room chat, and the front end adapts to the PC and mobile terminals
 
