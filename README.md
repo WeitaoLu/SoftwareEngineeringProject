@@ -34,13 +34,13 @@
 * 开发过程中遇到了很多奇怪的bug，修bug的同时也更加熟悉了websocket、npm各种指令的原理，熟练了vue框架和路由，一开始用socket.io库，后来学习了使用原生websocket的代码，于是借用了他的设计，50行左右实现了服务端的基本操作，但是没有成功迁移他的心跳时钟（自动断线）设计。  此外很多开源设计中用数据库记录用户信息、消息等，时间所限，我并没有学习数据库的使用。
 * 总之在开发的过程中，我从零开始探索vue框架，巩固了之前学到的前端知识，也锻炼了自己的编程能力（极大锻炼了debug能力），对于不熟悉的计网知识有了一些了解。虽然在debug和css布局上“浪费”了很多时间，但我感觉这次大作业还是让我收获很多的。  
 * 经过探索，成功将项目部署在了阿里云，使用tmux挂载server进程和client进程，将打包好的文件用live-storage运行。
-# 页面展示：登录页面
+# Login 
 ![](https://github.com/sjtuLLWWTT/SoftwareEngineeringProject/blob/main/preview/pcfront.png)
-# PC端
+# PC
 ![](https://github.com/sjtuLLWWTT/SoftwareEngineeringProject/blob/main/preview/聊天.png)
-# 移动端
+# Iphone
 ![](https://github.com/sjtuLLWWTT/SoftwareEngineeringProject/blob/main/preview/移动端.png)
-# 更新后 页面展示：登录页面
+# Updated Login
 ![](https://github.com/sjtuLLWWTT/SoftwareEngineeringProject/blob/main/preview/pcfrontt.png)
-# 聊天窗口
+# Chatroom 
 ![](./preview/聊天2.png)
